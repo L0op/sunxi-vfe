@@ -881,8 +881,8 @@ static struct sensor_win_size sensor_win_sizes[] = {
     {
       .width	  = HD1080_WIDTH,
       .height 	  = HD1080_HEIGHT,
-      .hoffset	  = 0,
-      .voffset	  = 0,
+      .hoffset	  = 295,
+      .voffset	  = 20,
       .hts        = 4400,
       .vts        = VMAX,
       .pclk       = 150*1000*1000,
