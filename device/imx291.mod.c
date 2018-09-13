@@ -55,4 +55,4 @@ __attribute__((section(".modinfo"))) =
 
 MODULE_ALIAS("i2c:imx291");
 
-MODULE_INFO(srcversion, "80598C7CD50B04972F482B7");
+MODULE_INFO(srcversion, "B6477D35DA1999BFC3F03AF");

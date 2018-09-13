@@ -614,7 +614,6 @@ deps_drivers/media/video/sunxi-vfe/device/imx291.o := \
   drivers/media/video/sunxi-vfe/device/../isp_cfg/SENSOR_H/../../lib/bsp_isp_algo.h \
   drivers/media/video/sunxi-vfe/device/../isp_cfg/SENSOR_H/../../lib/isp_module_cfg.h \
   drivers/media/video/sunxi-vfe/device/../isp_cfg/SENSOR_H/../../lib/bsp_isp_comm.h \
-  drivers/media/video/sunxi-vfe/device/../isp_cfg/SENSOR_H/imx291_1080p60_v3.h \
   drivers/media/video/sunxi-vfe/device/camera.h \
   drivers/media/video/sunxi-vfe/device/../vfe.h \
     $(wildcard include/config/has/earlysuspend.h) \
